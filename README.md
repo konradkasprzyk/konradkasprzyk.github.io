@@ -1,1 +1,4 @@
-[![Obraz](./assets/images/banner.png)](https://./Portfolio_1.pdf)
+[![Obraz](./banner.png)](./Portfolio_1.pdf)
+
+
+## Z góry dziękuje!
