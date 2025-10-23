@@ -1,4 +1,4 @@
-[![Obraz](./banner.png)](./Portfolio_1.pdf)
+[![Obraz](./banner.png)](./KonradKasprzyk.pdf)
 
 
 ## Z góry dziękuje!
